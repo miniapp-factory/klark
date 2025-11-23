@@ -10,7 +10,7 @@ import { Textarea } from "@/components/ui/textarea";
 export default function CreatePoll() {
   const [header, setHeader] = useState("");
   const [type, setType] = useState<"four" | "yesno">("four");
-  const [options, setOptions] = useState<string[]>(["", "", "", ""]);
+  const [options, setOptions] = useState<string[]>(["", ""]);
   const [minParticipants, setMinParticipants] = useState("");
 
   const handleOptionChange = (index: number, value: string) => {
