@@ -42,3 +42,9 @@
 
 # 2025-11-23 06:24:39.471200
 +apply changes
+
+# 2025-11-23 06:44:11.968109
++The main page must have only the button create poll. The button will lead to the page we just built. There must be two types of poll one with four options and the other one with just a yes or no options. There must be a minimum required participant determined by the poll creator. The creator must have a header (question or statement) in the poll and below is the four options that the creator chose. 
+
+# 2025-11-23 06:44:11.968971
++The main page must have only the button create poll. The button will lead to the page we just built. There must be two types of poll one with four options and the other one with just a yes or no options. There must be a minimum required participant determined by the poll creator. The creator must have a header (question or statement) in the poll and below is the four options that the creator chose. 
